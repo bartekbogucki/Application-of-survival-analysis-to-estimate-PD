@@ -1,1 +1,3 @@
-# Application-of-survival-analysis-to-estimate-PD
+## Application of survival analysis in estimating probability of default: a benchmark study with logistic regression for mortgage loans
+
+The repository includes a notebook that presents the results of a study aimed to demonstrate the application of various survival analysis techniques for predicting the probability of default to estimate expected loan loss, compared with the use of logistic regression on real-life data of a mortgage portfolio. For this purpose, various survival models are employed, including Weibull accelerated failure time, Log-Normal accelerated failure time, Cox proportional hazards and DeepHit. The assessment of the models' performance focuses on evaluating its discriminatory power and prediction accuracy. See the attached PDF for more details.
